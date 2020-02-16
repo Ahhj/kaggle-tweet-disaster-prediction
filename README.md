@@ -1,4 +1,4 @@
-Template for kaggle projects
+Classifying tweets to based on whether they refer to real disasters.
 
 # Getting started
 - From the project root directory, create a virtual environment
